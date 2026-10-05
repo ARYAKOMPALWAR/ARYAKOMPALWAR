@@ -204,17 +204,17 @@
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYAKOMPALWAR&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39d353&amp;icon_color=39d353&amp;text_color=c9d1d9&amp;border_color=30363d" alt="GitHub stats" width="450">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYAKOMPALWAR&show_icons=true&theme=dark&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=30363d" alt="GitHub stats" width="450">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAKOMPALWAR&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1117&amp;title_color=39d353&amp;text_color=c9d1d9&amp;border_color=30363d" alt="Top languages" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAKOMPALWAR&layout=compact&theme=dark&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=30363d" alt="Top languages" width="350">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAKOMPALWAR&amp;theme=dark&amp;background=0d1117&amp;stroke=30363d&amp;ring=39d353&amp;fire=39d353&amp;currStreakLabel=39d353&amp;sideLabels=c9d1d9&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;border=30363d" alt="GitHub streak stats" width="500">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYAKOMPALWAR&theme=dark&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&border=30363d" alt="GitHub streak stats" width="500">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/ARYAKOMPALWAR/ARYAKOMPALWAR/main/dist/snake.svg" alt="Contribution snake animation" width="100%" style="max-width: 800px;">
 </p>
 
