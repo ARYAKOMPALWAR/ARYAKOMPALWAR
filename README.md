@@ -215,7 +215,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ARYAKOMPALWAR/ARYAKOMPALWAR/output/snake.svg" alt="Contribution snake animation" width="100%" style="max-width: 800px;">
+  <img src="https://raw.githubusercontent.com/ARYAKOMPALWAR/ARYAKOMPALWAR/main/dist/snake.svg" alt="Contribution snake animation" width="100%" style="max-width: 800px;">
 </p>
 
 ---
