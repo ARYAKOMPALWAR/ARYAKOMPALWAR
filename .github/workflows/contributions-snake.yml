@@ -29,8 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          ls -la dist/
-          git add dist/*.svg
+          git add -f dist/*.svg
           git status
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "chore: update contribution snake animation"
