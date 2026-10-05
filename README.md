@@ -12,25 +12,6 @@
   <em>Building robust full-stack apps with MERN &amp; Next.js</em>
 </p>
 
-<!-- Status chips -->
-<p align="center">
-  <a href="https://github.com/ARYAKOMPALWAR" title="Building">
-    <img src="https://img.shields.io/badge/Building-X-2ea44f?style=flat-square" alt="Building X">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ARYAKOMPALWAR" title="Learning">
-    <img src="https://img.shields.io/badge/Learning-Y-2ea44f?style=flat-square" alt="Learning Y">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ARYAKOMPALWAR" title="Shipping">
-    <img src="https://img.shields.io/badge/Shipping-Z-2ea44f?style=flat-square" alt="Shipping Z">
-  </a>
-  &nbsp;
-  <a href="mailto:aryakompalwar@gmail.com" title="Open to work">
-    <img src="https://img.shields.io/badge/Open_to_work-39d353?style=flat-square" alt="Open to work">
-  </a>
-</p>
-
 <!-- Social buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aryakompalwar/">
@@ -205,7 +186,7 @@
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYAKOMPALWAR&show_icons=true&theme=dark&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=30363d" alt="GitHub stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYAKOMPALWAR&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&border_color=30363d" alt="GitHub stats" width="450">
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAKOMPALWAR&layout=compact&theme=dark&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=30363d" alt="Top languages" width="350">
 </p>
