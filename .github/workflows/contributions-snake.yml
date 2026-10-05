@@ -26,9 +26,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Commit snake
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update contribution snake animation"
-          file_pattern: dist/*.svg
-          commit_user_name: Arya Kompalwar
-          commit_user_email: aryakompalwar@gmail.com
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          ls -la dist/
+          git add dist/*.svg
+          git status
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update contribution snake animation"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
