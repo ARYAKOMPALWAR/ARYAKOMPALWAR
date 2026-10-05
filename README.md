@@ -5,8 +5,6 @@
   </picture>
 </p>
 
-<h1 align="center">Arya Kompalwar</h1>
-
 <p align="center">
   <strong>Full Stack Developer</strong> — MERN / Next.js<br>
   <em>Building robust full-stack apps with MERN &amp; Next.js</em>
